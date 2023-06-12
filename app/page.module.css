@@ -288,7 +288,8 @@
   justify-content:left;
   margin-top: 30px;
   margin-bottom: 50px;
-  color: black;
+  color: white;
+  background-color: red;
   font-size: 2.5rem;
 
 }
