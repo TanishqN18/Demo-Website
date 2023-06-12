@@ -85,48 +85,48 @@ export default function Home() {
           className={styles.logo1}
           src="/cpanel.png"
           alt="Logo"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
          <Image
           className={styles.logo1}
           src="/Immuntiy.png"
           alt="Logo"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
          <Image
           className={styles.logo1}
           src="/litespeed.png"
           alt="Next.js Logo"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
          <Image
           className={styles.logo2}
           src="/soft.png"
           alt="Logo"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
          <Image
           className={styles.logo2}
           src="/wordpress.png"
           alt="Logo"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
          <Image
           className={styles.logo2}
           src="/cloud flare.png"
           alt="LOGO"
-          width={400}
-          height={200}
+          width={300}
+          height={150}
           priority
         />
       </div>
